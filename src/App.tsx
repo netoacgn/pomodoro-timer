@@ -9,7 +9,7 @@ export function App() {
 
   return (
     <ThemeProvider theme={defaultTheme}>
-      <div></div>
+      <div>asdfasdf</div>
 
       <GlobalStyle />
     </ThemeProvider>
