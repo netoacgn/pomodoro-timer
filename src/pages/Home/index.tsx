@@ -24,6 +24,7 @@ export function Home() {
 
     function handleCreateNewCycle(data: any) {
         console.log(data)
+        reset();
     };
 
     const task = watch('task');
